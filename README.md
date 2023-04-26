@@ -24,7 +24,7 @@
 ### Pin diode 특성을 그래프로 확인하다  
 
 <p align="center">
-<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Relative spectral sensitivity-1.jpg" width="400px" height="300px" title="[Relative spectral sensitivity Srel = f (λ)]"/> 
+<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Relative spectral sensitivity-1.jpg" width="400px" height="300px" title="Semiconductor type radiation detection sensor"/> 
 </p> <p align="center">  [Relative spectral sensitivity Srel = f (λ)]</p>
 
 1. Relative spectral sensitivity Srel: 
@@ -35,7 +35,7 @@
 파장이 400nm에서 약 1100nm 사이에서도 감도가 상대적으로 높다는것을 알수있다.  
   
 <p align="center">
-<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Photocurrent_Open-circuit voltage-2.jpg" width="400px" height="300px" title="[Relative spectral sensitivity Srel = f (λ)]"/> 
+<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Photocurrent_Open-circuit voltage-2.jpg" width="400px" height="300px" title="Semiconductor type radiation detection sensor"/> 
 </p> <p align="center">[Photocurrent I/P=f(Ev), VR=5V Open-circuit voltage VO=f(Ev)]</p>
 
 2. Photocurrent, Open-circuit voltage: 
@@ -44,7 +44,7 @@
 광전류와 오픈 회로 전압이 조사되는 광자 에너지에 강도(광자 에너지)에 따른 다이오드의 전류 및 전압 특성과 광자 에너지가 증가함에 따라 광전류와 오픈 회로 전압이 증가함을 그리프에서 알수있다.  
   
 <p align="center">
-<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Total power dissipation-3.jpg" width="400px" height="300px" title="[Relative spectral sensitivity Srel = f (λ)]"/> 
+<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Total power dissipation-3.jpg" width="400px" height="300px" title="Semiconductor type radiation detection sensor"/> 
 </p> <p align="center">  [Total power dissipation Ptot = f (TA)]</p>  
 
 
@@ -55,7 +55,7 @@
 총 전력 소실이은 다이오드가 어떤 온도에서 안전하게 작동할 수 있는지 알 수 있고. 주변 온도가 높아질수록 전력 소실이 감소하고. 주변 온도가 25℃일 때 전력 소실은 약 150mW.  
   
 <p align="center">
-<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Dark current-4.jpg" width="400px" height="300px" title="[Relative spectral sensitivity Srel = f (λ)]"/> 
+<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Dark current-4.jpg" width="400px" height="300px" title="Semiconductor type radiation detection sensor"/> 
 </p> <p align="center">  [Dark current IR=f(VR), E=0]</p>   
 
 4. Dark current: 
@@ -64,7 +64,7 @@
 다이오드의 편향 전압에 따른 어두운 상태에서의 전류 특성을 확인할 수 있고. 전압이 0V에서 20V 사이에서 다크 전류는 전압이 증가함에 따라 대략 선형적으로 증가함.  
   
 <p align="center">
-<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Capacitance-5.jpg" width="400px" height="300px" title="[Relative spectral sensitivity Srel = f (λ)]"/> 
+<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Capacitance-5.jpg" width="400px" height="300px" title="Semiconductor type radiation detection sensor"/> 
 </p> <p align="center">  [Capacitance C=f(VR), f=1 MHz,E=0]</p>  
 
 5. Capacitance: 
@@ -74,7 +74,7 @@
 다이오드의 전압에 따른 용량 특성으로 데이터시트에서 보면, 전압이 증가함에 따라 용량이 감소하며. 전압이 0V에서 약 72pF의 용량을 가지며, 전압이 60V에 도달하면 약 12pF로 감소한다.  
   
 <p align="center">
-<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Dark current-6.jpg" width="400px" height="300px" title="[Relative spectral sensitivity Srel = f (λ)]"/> 
+<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Dark current-6.jpg" width="400px" height="300px" title="Semiconductor type radiation detection sensor"/> 
 </p> <p align="center">  [Dark current IR=f(TA), VR=10V,E=0]</p>  
 
 6. Dark current: 
@@ -84,7 +84,7 @@
 이는 고온에서 누설 전류가 더 큰 영향을 미치기 때문이다. 예를 들어, 25℃에서의 다크 전류는 약 2nA이지만, 100℃에서는 약 80nA입니다.  
   
 <p align="center">
-<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Directional characteristics-7.jpg" width="400px" height="300px" title="[Relative spectral sensitivity Srel = f (λ)]"/> 
+<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Directional characteristics-7.jpg" width="400px" height="300px" title="Semiconductor type radiation detection sensor"/> 
 </p> <p align="center">  [Directional characteristics Srel=f(ϕ)]</p>  
 
 7. Directional characteristics Srel: 
