@@ -22,8 +22,9 @@
 설계 과정에서 데이터시트를 정확히 이해하고, 다양한 조건에서의 성능을 고려하여 안정적이고 정확한 검출 회로를 구축할 수 있다.  
 
 ### Pin diode 특성을 그래프로 확인하다  
-
-<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Relative spectral sensitivity-1.jpg" width="400px" height="300px" title=""/>
+<p align="center">
+<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/./Relative spectral sensitivity-1.jpg" width="400px" height="300px" title=""/> 
+</p>
 1. Relative spectral sensitivity Srel = f (λ): 
 이 그래프는 핀 다이오드의 상대 스펙트럼 감도를 파장에 대한 함수로 보여준다. 
 이를 통해 다이오드가 어떤 파장의 빛에 더 민감한지 알 수 있다. 
