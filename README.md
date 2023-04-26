@@ -24,6 +24,11 @@
 #### Pin diode 특성을 그래프로 확인하다  
 
 
+<img src="https://github.com/star1css/Electrical-and-Electronics/blob/main/Relative%20spectral%20sensitivity-1.jpg" width="400px" height="300px" title="Github_Logo"/>
+
+
+
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/star1css/Electrical-and-Electronics/blob/main/Relative%20spectral%20sensitivity-1.jpg)
 1. Relative spectral sensitivity Srel = f (λ): 
 이 그래프는 핀 다이오드의 상대 스펙트럼 감도를 파장에 대한 함수로 보여준다. 
